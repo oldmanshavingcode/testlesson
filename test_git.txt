@@ -1,1 +1,4 @@
 hello hello
+oh cool~
+git add filename == 기록할 파일을 골라냄 //작업폴더에서 staging area로 가져옴 == 스테이징함
+git commit -m "수정설명" == 저장할 내용과 함께 저장 //staging area에서 repository로 저장 == 저장함
